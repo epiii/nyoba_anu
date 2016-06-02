@@ -1,6 +1,6 @@
 <?php
 	/**
-	* main library 
+	* main source  http://santrinulis.com/tulisanke-438-PDO%28PHP-Data-Object%29-CRUD.html
 	* modify by EPI
 	*/
 	class Lib extends PDO{
