@@ -21,7 +21,7 @@
 			</tr>
 		</thead>
 		<tbody id="tbody">
-			anunya muncul
+			<!-- anunya muncul disini -->
 		</tbody>
 	</table>
 </body>
